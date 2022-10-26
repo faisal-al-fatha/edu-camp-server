@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "picture": "https://juristecplus.com/wp-content/uploads/2022/03/Data-Science.jpg",
+    "ratings": 4.9,
+    "price": "39",
+    "name": "Data Science",
+    "learnObjectives": "Describe what data science and machine learning are, their applications & use cases, and various types of tasks performed by data scientists, gain hands-on familiarity with common data science tools including JupyterLab, R Studio, GitHub and Watson Studio \r\n"
+  },
+  {
+    "id": "2",
+    "picture": "https://www.thetechbizz.com/wp-content/uploads/2022/08/website-development-process-1.jpg",
+    "ratings": 4.6,
+    "price": "35",
+    "name": "Web Development",
+    "learnObjectives": "Create a responsive website using HTML to structure content, CSS to handle visual style, and JavaScript to develop interactive experiences. Learn to use React in relation to Javascript libraries and frameworks. Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.\r\n"
+  },
+  {
+    "id": "3",
+    "picture": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2021/08/04022409/WHAT-IS-BLOCKCHAIN.png",
+    "ratings": 4.7,
+    "price": "49",
+    "name": "Block Chain",
+    "learnObjectives": "Understand smart contracts, a core idea and computational model of blockchain that enables automation, autonomy, scalability and transparency.How to design and program smart contracts and decentralized application. How to think of innovative application models, leveraging the blockchain technology. \r\n"
+  },
+  {
+    "id": "4",
+    "picture": "https://assets.hongkiat.com/uploads/interaction-design-vs-visual-design/ui-ux-design.jpg",
+    "ratings": 4.5,
+    "price": "30",
+    "name": "UI/UX Design",
+    "learnObjectives": "This is your path to a career in UI/UX design. In this program, you'll learn about applying foundational UX concepts, like user-centered design, accessibility, equity-focused design, understand the basics of UX research, like planning research studies, conducting interviews and usability studies, and synthesizing research results etc. \r\n"
+  },
+  {
+    "id": "5",
+    "picture": "https://aqi.co.id/wp-content/uploads/2021/03/apa-itu-machine-learning.jpg",
+    "ratings": 4.6,
+    "price": "45",
+    "name": "Machine Learning",
+    "learnObjectives": "Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression). Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection. \r\n"
+  },
+  {
+    "id": "6",
+    "picture": "https://meson-digital.com/wp-content/uploads/2018/05/apa-itu-digital-marketing.jpg",
+    "ratings": 4.4,
+    "price": "33",
+    "name": "Digital marketing",
+    "learnObjectives": "Learn the fundamentals of digital marketing and e-commerce to gain the skills needed to land an entry-level job. Measure marketing performance through analytics and present insights. Attract and engage customers through digital marketing channels like search and email.\r\n"
+  }
+]
